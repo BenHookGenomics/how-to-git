@@ -10,7 +10,7 @@ A repo with some branches and some pull requests designed to show how to:
 * Make good Pull Requests
 * Review Pull Requests like a boss
 * Use the Fetch & Rebase method of working (rather than pull)
-*yoyoyoyoyoyoyoyoyoyoy this is well fun:
+yoyoyoyoyoyoyoyoyoyoy this is well fun :)
 ## Notes
 
 Obviously some of this is very opinionated. I am working to the following principles when making this guide:
